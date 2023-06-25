@@ -1,20 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=HiThere&animation=fadeIn)
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:abc1ee&height=180&section=header&text=이인국&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+
+**성장해나가는 개발자 이인국입니다**
+
+- 2023.01.-2023.04 |  Code States ABC-Lab Web Frontend 1기
+- 2022.03.-2022.06 |  SBS Academy Web Publishing
 
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-e8d337?style=for-the-badge&logo=javaScript&logoColor=white">
-<img src="https://img.shields.io/badge/SCSS-f23cc7?style=for-the-badge&logo=SCSS&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-//github
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-//aws
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+### Skills
+![React](https://img.shields.io/badge/-React-89a8ff?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-89a8ff?style=flat&logo=javascript&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-89a8ff?style=flat&logo=sass&logoColor=white)
+
+### Tools
+![Github](https://img.shields.io/badge/Github-89a8ff?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-89a8ff?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-89a8ff?style=flat&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-89a8ff?style=flat&logo=discord&logoColor=white)
