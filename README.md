@@ -3,7 +3,7 @@
 **성장해나가는 개발자 이인국입니다**
 
 - 2023.01.-2023.04 |  Code States ABC-Lab Web Frontend 1기
-- 2022.03.-2022.06 |  SBS Academy Web Publishing
+- 2019.06.-2019.11 |  SBS Academy Web Publishing
 
 
 
