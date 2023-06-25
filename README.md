@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=HiThere&animation=fadeIn)
 
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=javaScript&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=for-the-badge&logo=javaScript&logoColor=white">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
