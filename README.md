@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=HiThere)
+![header](https://capsule-render.vercel.app/api?type=waving&text=HiThere&animation=fadeIn)
 
 **inggu96/inggu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
