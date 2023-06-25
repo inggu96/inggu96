@@ -1,4 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:abc1ee&height=180&section=header&text=이인국&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:abc1ee&height=180&section=header&text=INGUK&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 **성장해나가는 개발자 이인국입니다**
 
