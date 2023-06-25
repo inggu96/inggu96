@@ -19,13 +19,13 @@
 <h3 align="center"> ME 🦙 </h3>
 
 <div>
-<a href="https://velog.io/@llama" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/></a> &nbsp <a href="mailto:andong1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@96_inggu" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/></a> &nbsp <a href="mailto:dlsrnr403@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
-  
+
 <br>
 
   <h3> Today 😎 </h3>
-  <a href="https://github.com/llama-ste/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllama-ste%2F&count_bg=%2332D3EB&title_bg=%238A9596&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a>
+  <a href="https://github.com/inggu96/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllama-ste%2F&count_bg=%2332D3EB&title_bg=%238A9596&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a>
 
 <br>
 <br>
