@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=for-the-badge&logo=javaScript&logoColor=white">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/SCSS-4479A1?style=for-the-badge&logo=SCSS&logoColor=white">
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
