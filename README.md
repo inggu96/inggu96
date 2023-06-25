@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=HiThere&animation=fadeIn)
 
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-007396?style=for-the-badge&logo=javaScript&logoColor=white">
-
-<img src="https://img.shields.io/badge/SCSS-4479A1?style=for-the-badge&logo=SCSS&logoColor=white">
-
+<img src="https://img.shields.io/badge/JAVASCRIPT-e8d337?style=for-the-badge&logo=javaScript&logoColor=white">
+<img src="https://img.shields.io/badge/SCSS-f23cc7?style=for-the-badge&logo=SCSS&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 //github
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
