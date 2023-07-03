@@ -8,7 +8,7 @@
 <h3>- 2019.06.-2019.11 |  SBS Academy Web Publishing</h3>
 
 <h3 align="center">📌 STACK </h3>
-<p align="center"> Techs that I've usually used </p>
+<p align="center"> Techs that I've usually used !! </p>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" /></div>
 
