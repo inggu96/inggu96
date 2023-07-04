@@ -5,7 +5,7 @@
 <h3 align=center>성장해나가는 개발자 이인국입니다 👋 </3>
 
 <h3>- 2023.01.-2023.04 |  Code States ABC-Lab Web Frontend 1기</h3>
-<h3>- 2019.06.-2019.11 |  SBS Academy Web Publishing</h3>
+<h3>- 2019.06.-2019.11 |  SBS Academy Web Publishing </h3>
 
 <h3 align="center">📌 STACK </h3>
 <p align="center"> Techs that I've usually used !! </p>
