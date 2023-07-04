@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"> &nbsp <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
 </div>
 
-<h3 align="center"> ME 🦙 </h3>
+<h3 align="center"> 🦙 ME 🦙 </h3>
 
 <div>
 <a href="https://velog.io/@96_inggu" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/></a> &nbsp <a href="mailto:dlsrnr403@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -24,7 +24,7 @@
 
 <br>
 
-  <h3> Today 😎 </h3>
+  <h3> Today 😎😎 </h3>
   <a href="https://github.com/inggu96/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllama-ste%2F&count_bg=%2332D3EB&title_bg=%238A9596&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a>
 
 <br>
