@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3 align=center>성장해나가는 개발자 이인국입니다 👋 </3>
+<h3 align=center>성장해나가는 개발자 이인국입니다 👋👋 </3>
 
 <h3>- 2023.01.-2023.04 |  Code States ABC-Lab Web Frontend</h3>
 <h3>- 2019.06.-2019.11 |  SBS Academy Web Publishing </h3>
@@ -23,9 +23,6 @@
 </div>
 
 <br>
-
-  <h3> Today 😎 </h3>
-  <a href="https://github.com/inggu96/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllama-ste%2F&count_bg=%2332D3EB&title_bg=%238A9596&icon=&icon_color=%23E7E7E7&title=WELCOME&edge_flat=false"/></a>
 
 <br>
 <br>
