@@ -13,7 +13,7 @@
 <div style="display: flex; align-items: flex-start;"><div style="display: flex; align-items: flex-start;"><div style="display: flex; align-items: flex-start;"></div><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" /> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" /></div>
 
 <div>
-&nbsp <img src="https://img.shields.io/badge/Type-0276c6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img><img src="https://img.shields.io/badge/Next-ffffff?style=flat-square&logo=Next&logoColor=white"></img>
+&nbsp <img src="https://img.shields.io/badge/Type-0276c6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
 </div>
 
 <h3 align="center"> ME 🦙 </h3>
