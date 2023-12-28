@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h3 align=center>성장해나가는 개발자 이인국입니다 👋 </h3>
+<h3 align=center>프론트엔드 개발자 이인국입니다 👋 </h3>
 
 <h3>- 2023.01.-2023.04 |  Code States ABC-Lab Web Frontend</h3>
 <h3>- 2019.06.-2019.11 |  SBS Academy Web Publishing </h3>
@@ -10,7 +10,7 @@
 <h3 align="center">📌 STACK </h3>
 <p align="center"> Techs that I've usually used ! </p>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" /><div style="display: flex; align-items: flex-start;"><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /></div><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" /></div>
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"> &nbsp <img src="https://img.shields.io/badge/JavaScript-FFCD11?style=flat-square&logo=JavaScript&logoColor=white"></img> &nbsp <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
