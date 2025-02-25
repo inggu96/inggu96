@@ -1,12 +1,8 @@
 # 이인국 (Lee In-guk)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=풀스택%20개발자%20이인국입니다&descAlignY=60&descAlign=62)
-
 <div align="center">
-  <h2>💻 풀스택 개발자를 향해 성장하는 이인국입니다</h2>
+  <h2>💻 풀스택 개발자 이인국입니다</h2>
   <p>사용자 중심의 UI/UX와 효율적인 코드 작성을 지향하는 개발자입니다</p>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F96-inggu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <br>
@@ -53,22 +49,6 @@ currentlyLearning: ["Node.js", "Express", "React Native"]
 
 <br>
 
-## 🌟 Projects
-
-### 🏍️ 레인조 라이딩스쿨 웹사이트
-> 오토바이 라이딩스쿨을 위한 반응형 웹사이트 디자인 및 개발
-- **기술 스택**: Next.js, TypeScript, Tailwind CSS
-- **주요 기능**: 반응형 디자인, 모바일 최적화, 사용자 친화적 UI
-- **링크**: [웹사이트 방문하기](https://rca.kr/)
-
-### 📱 포트폴리오 웹사이트
-> 개인 포트폴리오 웹사이트 개발 프로젝트
-- **기술 스택**: React, TypeScript, Tailwind CSS
-- **주요 기능**: 반응형 디자인, 다크 모드, 프로젝트 쇼케이스
-- **링크**: [GitHub 저장소](https://github.com/96-inggu/portfolio)
-
-<br>
-
 ## 📫 Contact Me
 
 <div align="center">
@@ -88,7 +68,6 @@ currentlyLearning: ["Node.js", "Express", "React Native"]
 ## 🌱 Currently Learning
 
 - Node.js와 Express를 활용한 백엔드 개발
-- React Native를 활용한 모바일 앱 개발
 - 사용자 경험 향상을 위한 UI/UX 디자인 원칙
 - 웹 성능 최적화 기법
 
