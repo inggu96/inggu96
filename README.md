@@ -3,9 +3,9 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <h2>💻 풀스택 개발자 이인국입니다</h2>
+  <p>💻 풀스택 개발자 이인국입니다</p>
   <p>사용자 중심의 UI/UX와 효율적인 코드 작성을 지향하는 개발자입니다</p>
-   <p>"React", "Next.js", "TypeScript", "Nest,js" , "Express"</p>
+  <p>"React", "Next.js", "TypeScript", "Nest,js" , "Express"</p>
 </div>
 
 ## 🛠️ Tech Stack
