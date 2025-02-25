@@ -1,23 +1,12 @@
 # 이인국 (Lee In-guk)
 
+## 🧑‍💻 About Me
+
 <div align="center">
   <h2>💻 풀스택 개발자 이인국입니다</h2>
   <p>사용자 중심의 UI/UX와 효율적인 코드 작성을 지향하는 개발자입니다</p>
+   <p>React", "Next.js", "TypeScript", "Nest,js,Express"</p>
 </div>
-
-<br>
-
-## 🧑‍💻 About Me
-
-javascript
-const developer = {
-name: "이인국 (Lee In-guk)",
-position: "Frontend Developer",
-location: "Seoul, Korea",
-skills: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-interests: ["Clean Code", "Responsive Design", "User Experience"],
-currentlyLearning: ["Node.js", "Express"]
-};
 
 <br>
 
@@ -25,16 +14,15 @@ currentlyLearning: ["Node.js", "Express"]
 
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
   <h3>Backend</h3>
+    <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   
@@ -57,7 +45,7 @@ currentlyLearning: ["Node.js", "Express"]
   <a href="https://velog.io/@96_inggu">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://github.com/96-inggu">
+  <a href="https://github.com/inggu96">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -65,10 +53,9 @@ currentlyLearning: ["Node.js", "Express"]
 <br>
 
 ## 🌱 Currently Learning
-- Next.js와 tailwind를 기반한 프론트엔드 개발
-- Node.js와 Express를 활용한 백엔드 개발
-- 사용자 경험 향상을 위한 UI/UX 디자인 원칙
-- 웹 성능 최적화 기법
+- Next.js와 Typescript,tailwind를 기반한 프론트엔드 개발
+- Nest.js와 Node.js,Express를 활용한 백엔드 개발
+- 사용자 경험 향상을 위한 UI/UX 디자인 구현
 
 <br>
 
