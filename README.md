@@ -16,7 +16,7 @@ position: "Frontend Developer",
 location: "Seoul, Korea",
 skills: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
 interests: ["Clean Code", "Responsive Design", "User Experience"],
-currentlyLearning: ["Node.js", "Express", "React Native"]
+currentlyLearning: ["Node.js", "Express"]
 };
 
 <br>
