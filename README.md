@@ -19,7 +19,6 @@ interests: ["Clean Code", "Responsive Design", "User Experience"],
 currentlyLearning: ["Node.js", "Express", "React Native"]
 };
 
-
 <br>
 
 ## 🛠️ Tech Stack
