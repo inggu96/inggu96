@@ -66,7 +66,7 @@ currentlyLearning: ["Node.js", "Express", "React Native"]
 <br>
 
 ## 🌱 Currently Learning
-
+- Next.js와 tailwind를 기반한 프론트엔드 개발
 - Node.js와 Express를 활용한 백엔드 개발
 - 사용자 경험 향상을 위한 UI/UX 디자인 원칙
 - 웹 성능 최적화 기법
