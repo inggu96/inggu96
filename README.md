@@ -8,8 +8,6 @@
    <p>"React", "Next.js", "TypeScript", "Nest,js" , "Express"</p>
 </div>
 
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
